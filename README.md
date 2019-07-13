@@ -6,4 +6,4 @@ Halo! Dgn Paul disini. Hari ini kita akan mulai membuat aplikasi sistem informas
 Mari kita mulai.
 
 Pertama, kita akan membuat folder ci_mulia di localhost kita.
-Nantinya, folder tersebut akan kita uplad ke mulia.hutagaol.id.
+Nantinya, folder tersebut akan kita upload ke mulia.hutagaol.id.
